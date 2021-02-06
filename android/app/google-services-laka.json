@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "990415004868",
+    "firebase_url": "https://fleming-expense-tracker.firebaseio.com",
+    "project_id": "fleming-expense-tracker",
+    "storage_bucket": "fleming-expense-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990415004868:android:d239e8fe7442bbaa979591",
+        "android_client_info": {
+          "package_name": "com.example.fleming_expense_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990415004868-p8evrudgk2i8p9rmbpla28pe3j705nka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fleming_expense_tracker",
+            "certificate_hash": "a8aacba5f44ec67c4cec1ab9b3d9a113cabba5ef"
+          }
+        },
+        {
+          "client_id": "990415004868-mlda31iototaaubmrhfbjq3bipu21qd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI_0LXeFiMkNBttm2n98pqGh6FWxN6LAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990415004868-mlda31iototaaubmrhfbjq3bipu21qd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
